@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+# Credenciales locales. No subir cookies al repositorio.
+cookies.txt
+cookies.tx
+*cookies*.txt
+
+# Salidas generadas por la descarga y preparacion del dataset.
+mp3_by_id/
+download_archive.txt
+index_raw.jsonl
+index.json
+index_limpio.json
+voice_validation_sample.tsv
+voice_filter_decisions.tsv
